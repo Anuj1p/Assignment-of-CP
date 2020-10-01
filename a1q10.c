@@ -13,7 +13,7 @@ g=a/10;
 h=g%10;
 j=c+(e*10);
 k=h+j;
-printf("the value of k is%d",k);
+printf("answer as the value of k is%d",k);
 
 
 
